@@ -17,4 +17,8 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Vue material library docs: http://vuematerial.io/#/
+
+Docs on the vue webpack template: http://vuejs-templates.github.io/webpack/
+
+This template uses vue loader: [docs for vue-loader] (http://vuejs.github.io/vue-loader).
